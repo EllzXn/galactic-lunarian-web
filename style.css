@@ -20,7 +20,7 @@ header {
     font-size: 24px;
     align-items: center;
     justify-content: center;
-    border-radius: 20px;
+    border-radius: 0px 0px 20px 20px;
 }
 
 .logo {
@@ -119,5 +119,5 @@ footer {
     background: rgba(0, 0, 0, 0.8);
     padding: 20px;
     margin-top: 40px;
-    border-radius: 20px;
+    border-radius: 20px 20px 0px 0px;
 }
