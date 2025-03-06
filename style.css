@@ -62,6 +62,11 @@ header {
     margin-bottom: 10px;
 }
 
+#welcome-video {
+    width: 100%;
+    border-radius: 20px;
+}
+
 nav ul {
     display: flex;
     justify-content: center;
